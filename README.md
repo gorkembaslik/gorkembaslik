@@ -17,12 +17,55 @@ My background is in Computer Engineering , and I'm driven to build and optimize 
 
 A quick overview of the tools and technologies I use.
 
-| Backend & APIs | Databases | Data & AI | Languages | Tools & Platforms |
-| :--- | :--- | :--- | :--- | :--- |
-| Flask | MongoDB | NumPy | Python | Git |
-| FastAPI | Oracle | NLTK | Java | Docker |
-| REST APIs | | | C | Linux |
-| | | | | PyCharm / VS Code |
+<details open>
+  <summary><strong>Languages</strong></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,java,py&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,java,py&theme=light" />
+    <img alt="languages" src="https://skillicons.dev/icons?i=c,java,py&theme=light" />
+  </picture>
+</details>
+
+<details>
+  <summary><strong>Backend & APIs</strong></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=light" />
+    <img alt="backend & apis" src="https://skillicons.dev/icons?i=flask,fastapi,postman&theme=light" />
+  </picture>
+</details>
+
+<details>
+  <summary><strong>Databases</strong></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=light" />
+    <img alt="databases" src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=light" />
+  </picture>
+</details>
+
+<details>
+  <summary><strong>Data & AI</strong></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
+    <img alt="data & ai" src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
+  </picture>
+</details>
+
+<details>
+  <summary><strong>Tools & Platforms</strong></summary>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,docker,linux,pycharm,vscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,docker,linux,pycharm,vscode&theme=light" />
+    <img alt="tools & platforms" src="https://skillicons.dev/icons?i=git,docker,linux,pycharm,vscode&theme=light" />
+  </picture>
+</details>
 
 ---
 
