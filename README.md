@@ -35,7 +35,7 @@ A quick overview of the tools and technologies I use.
 * **Key Achievement:** Slashed data collection time **from 15 minutes to <2 minutes (over 85% reduction)**.
 * **[https://github.com/gorkembaslik/NW_Project]**
 
-#### 2. Project: High-Speed Data Automation Pipeline
+#### 2. Project: Amazon Affiliate Telegram Bot
 * **What it is:** An automation tool for affiliate marketing that scrapes Amazon product data (title, price, image) from a URL and automatically publishes it to a Telegram channel.
 * **Why I built it:** To build a full data pipeline from web scraping to API broadcasting. It's designed as a configurable tool for easy setup and deployment, handling data parsing and API integration.
 * **Tech Stack:** `Python`, `Web Scraping (e.g., BeautifulSoup/Requests)`, `Telegram Bot API`.
