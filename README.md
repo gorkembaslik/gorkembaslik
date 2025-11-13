@@ -14,23 +14,32 @@ My background is in Computer Engineering , and I'm driven to build and optimize 
 ---
 
 ### 💻 My Tech Stack
-
 A quick overview of the tools and technologies I use.
 
-<details open><summary><strong>Languages</strong></summary>
+<details open> <summary><strong>Languages</strong></summary>
 
-<!-- C --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc%26theme%3Dlight" /></picture><!-- Java --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava%26theme%3Dlight" /></picture><!-- Python --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy%26theme%3Dlight" /></picture></details>
 
-<details><summary><strong>Backend & APIs</strong></summary>
-<!-- Flask --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dflask%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dflask%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dflask%26theme%3Dlight" /></picture><!-- FastAPI --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfastapi%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfastapi%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfastapi%26theme%3Dlight" /></picture><!-- Postman --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostman%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostman%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostman%26theme%3Dlight" /></picture></details>
+<img src="https://skillicons.dev/icons?i=c" alt="C" /> <img src="https://skillicons.dev/icons?i=java" alt="Java" /> <img src="https://skillicons.dev/icons?i=py" alt="Python" /> </details>
 
-<details><summary><strong>Databases</strong></summary>
-<!-- MongoDB --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb%26theme%3Dlight" /></picture><!-- MySQL --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql%26theme%3Dlight" /></picture><!-- Oracle --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Doracle%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Doracle%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Doracle%26theme%3Dlight" /></picture></details>
+<details> <summary><strong>Backend & APIs</strong></summary>
 
-<details><summary><strong>Data & AI</strong></summary>
-<!-- NumPy --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy%26theme%3Dlight" /></picture><!-- Pandas --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas%26theme%3Dlight" /></picture></details>
-<details><summary><strong>Tools & Platforms</strong></summary>
-<!-- Git --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit%26theme%3Dlight" /></picture><!-- Docker --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker%26theme%3Dlight" /></picture><!-- Linux --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux%26theme%3Dlight" /></picture><!-- PyCharm --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpycharm%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpycharm%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpycharm%26theme%3Dlight" /></picture><!-- VS Code --><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode%26theme%3Ddark" /><source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode%26theme%3Dlight" /><img  src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode%26theme%3Dlight" /></picture></details>
+
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask" /> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </details>
+
+<details> <summary><strong>Databases</strong></summary>
+
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" /> </details>
+
+<details> <summary><strong>Data & AI</strong></summary>
+
+
+<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" /> <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" /> </details>
+
+<details> <summary><strong>Tools & Platforms</strong></summary>
+
+
+<img src="https://skillicons.dev/icons?i=git" alt="Git" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> </details>
 
 ---
 
