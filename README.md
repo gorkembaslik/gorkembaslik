@@ -4,7 +4,7 @@
 
 I'm a Computer Science M.S. student at the University of Milan with a passion for **software development** and building **scalable, high-performance systems**.
 
-My background is in Computer Engineering , and I'm driven to build and optimize fault-tolerant tools and APIs. I have a strong interest in the **Fintech** and **automation** sectors  and am actively seeking junior backend developer roles.
+My background is in Computer Engineering , and I'm driven to build and optimize fault-tolerant tools and APIs. I have a strong interest in the **Fintech** and **AI/ML** sectors  and am actively seeking junior backend developer roles.
 
 * 🎓 Studying **M.S. Computer Science** at Università degli Studi di Milano.
 * 🚀 I thrive on a bias for action in my last role, I engineered a data pipeline that cut processing time by over 85% and delivered the project 2 months ahead of schedule.
