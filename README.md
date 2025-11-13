@@ -45,8 +45,28 @@ A quick overview of the tools and technologies I use.
 
 ### 📊 My GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=gorkembaslik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkembaslik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=gorkembaslik&show_icons=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=gorkembaslik&show_icons=true&theme=default"
+  />
+  <img alt="Gorkem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gorkembaslik&show_icons=true&theme=default" />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkembaslik&layout=compact&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkembaslik&layout=compact&theme=default"
+  />
+  <img alt="Gorkem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorkembaslik&layout=compact&theme=default" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gorkembaslik/gorkembaslik/blob/output/github-snake-dark.svg" />
