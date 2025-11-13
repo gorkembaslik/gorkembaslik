@@ -7,7 +7,7 @@ I'm a Computer Science M.S. student at the University of Milan with a passion fo
 My background is in Computer Engineering , and I'm driven to build and optimize fault-tolerant tools and APIs. I have a strong interest in the **Fintech** and **automation** sectors  and am actively seeking junior backend developer roles.
 
 * 🎓 Studying **M.S. Computer Science** at Università degli Studi di Milano.
-* 🚀 I thrive on a **"bias for action"** in my last role, I engineered a data pipeline that cut processing time by over 85% and delivered the project 2 months ahead of schedule.
+* 🚀 I thrive on a bias for action in my last role, I engineered a data pipeline that cut processing time by over 85% and delivered the project 2 months ahead of schedule.
 * 💡 I'm currently deepening my knowledge in: **Docker**, **advanced REST API design**, and **New Generation DBMSs**.
 * 📫 You can reach me at **gorkembaslik@gmail.com** or on [**LinkedIn**](https://www.linkedin.com/in/baslik).
 
