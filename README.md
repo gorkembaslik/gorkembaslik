@@ -2,7 +2,7 @@
 
 
 
-I'm a Computer Science M.S. student at the University of Milan with a passion for **backend development** and building **scalable, high-performance systems**.
+I'm a Computer Science M.S. student at the University of Milan with a passion for **software development** and building **scalable, high-performance systems**.
 
 My background is in Computer Engineering , and I'm driven to build and optimize fault-tolerant tools and APIs. I have a strong interest in the **Fintech** and **automation** sectors  and am actively seeking junior backend developer roles.
 
