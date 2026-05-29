@@ -42,7 +42,7 @@ A quick overview of the tools and technologies I use.
 #### [campus-eats](https://github.com/gorkembaslik/campus-eats) — [Live Demo](https://campus-eats-unimi.vercel.app/)
 Campus food ordering platform — students top up a digital meal wallet, place orders, and cashiers manage a real-time queue. Built with TypeScript and Stripe.
 
-#### [NW_Project](https://github.com/gorkembaslik/NW_Project)
+#### [NW_Project](https://github.com/gorkembaslik/NW_Project) — [Live Demo](https://huggingface.co/spaces/gorkembaslik/youtube-partnership-analyzer)
 Sentiment analysis tool for YouTubers. Replaced a slow Selenium pipeline with a fast data processor — cut collection time by over 85%. Built with Python, NLTK, and NumPy.
 
 #### [quiz-app](https://github.com/gorkembaslik/quiz-app) — [Live Demo](https://intelligent-systems-quiz.vercel.app/)
