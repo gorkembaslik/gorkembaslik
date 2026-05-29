@@ -22,7 +22,7 @@ A quick overview of the tools and technologies I use.
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-#### 🛢️ Databases
+#### 🗢️ Databases
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
@@ -41,19 +41,18 @@ A quick overview of the tools and technologies I use.
 
 ### 🚀 Featured Projects
 
-#### 1. Project: High-Speed Data Automation Pipeline
-* **What it is:** A backend tool architected to process and analyze high-volume YouTube data, replacing inefficient Selenium-based methods.
-* **Why I built it:** To engineer a high-speed pipeline for a sponsorship potential model, demonstrating skills in reverse-engineering and system optimization.
-* **Tech Stack:** `Python`, `NLTK`, `NumPy`.
-* **Key Achievement:** Slashed data collection time **from 15 minutes to <2 minutes (over 85% reduction)**.
-* **[https://github.com/gorkembaslik/NW_Project]**
+#### [campus-eats](https://github.com/gorkembaslik/campus-eats) — [Live Demo](https://campus-eats-unimi.vercel.app/)
+Campus food ordering platform — students top up a digital meal wallet, place orders, and cashiers manage a real-time queue. Built with TypeScript and Stripe.
 
-#### 2. Project: Amazon Affiliate Telegram Bot
-* **What it is:** An automation tool for affiliate marketing that scrapes Amazon product data (title, price, image) from a URL and automatically publishes it to a Telegram channel.
-* **Why I built it:** To build a full data pipeline from web scraping to API broadcasting. It's designed as a configurable tool for easy setup and deployment, handling data parsing and API integration.
-* **Tech Stack:** `Python`, `Web Scraping (e.g., BeautifulSoup/Requests)`, `Telegram Bot API`.
-* **See it live:** You can see the bot's output in this Telegram channel: **https://t.me/products_verified_IT**
-* **[https://github.com/gorkembaslik/Telegram_AffiliateMarketing]**
+#### [NW_Project](https://github.com/gorkembaslik/NW_Project)
+Sentiment analysis tool for YouTubers. Replaced a slow Selenium pipeline with a fast data processor — cut collection time by over 85%. Built with Python, NLTK, and NumPy.
+
+#### [quiz-app](https://github.com/gorkembaslik/quiz-app) — [Live Demo](https://intelligent-systems-quiz.vercel.app/)
+Community-driven quiz app built for the Intelligent Systems course at Unimi. Students contribute questions and quiz each other. Built with JavaScript.
+
+#### [cagla](https://github.com/gorkembaslik/cagla) — [Live Demo](https://gorkembaslik.github.io/cagla/)
+Art portfolio site I built for a friend. Clean, minimal, still in progress. Built with HTML/CSS.
+
 ---
 
 ### 📊 My GitHub Stats
